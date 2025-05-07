@@ -29,11 +29,11 @@ function App() {
                 </nav>
                 <Routes>
                     <Route path="/" element={<Home />}></Route>
-                    <Route path="/Projects" element={<Projects />}></Route>
-                    <Route path="/Contact" element={<Contact />}></Route>
+                    <Route path="/projects" element={<Projects />}></Route>
+                    <Route path="/contact" element={<Contact />}></Route>
                     <Route path="/project1" element={<Project1 />}></Route>
                     <Route path="/project2" element={<Project2 />}></Route>
-                    <Route path="/Skills" element={<Skills />}></Route>
+                    <Route path="/skills" element={<Skills />}></Route>
                 </Routes>
             </Router>
         </>

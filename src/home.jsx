@@ -12,7 +12,7 @@ export default function Home() {
 
                 <div className="container">
 
-                    <img src="profile.jpg" width="300" alt="profile"></img>
+                    <img src="/portfolio/profile.jpg" width="300" alt="profile"></img>
 
                     <div className="text">
                         <p>
