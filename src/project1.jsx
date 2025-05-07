@@ -12,7 +12,7 @@ export default function Project1(){
                     <a href="https://github.com/Cjstmda1s/to-do-list" className="nav-link">Github Page</a>
 
                     <div className="container">
-                        <img src="/todoSS.png" alt="todoscreenshot" />
+                        <img src="todoSS.png" alt="todoscreenshot" />
                             <div className="text">
                                 <p>
                                     Simple and interactive web application designed to help users manage their tasks. 

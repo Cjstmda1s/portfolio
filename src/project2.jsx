@@ -12,7 +12,7 @@ export default function Project2(){
                     <a href="https://github.com/Cjstmda1s/get-random-dog" className="nav-link">Github Page</a>
 
                     <div className="container">
-                        <img src="/dog.png" alt="todoscreenshot" />
+                        <img src="dog.png" alt="todoscreenshot" />
                             <div className="text">
                                 <p>
                                     web application designed to display random dog pictures on demand.

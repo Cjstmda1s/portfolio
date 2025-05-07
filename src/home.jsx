@@ -12,7 +12,7 @@ export default function Home() {
 
                 <div className="container">
 
-                    <img src="\profile.jpg" width="300" alt="profile"></img>
+                    <img src="profile.jpg" width="300" alt="profile"></img>
 
                     <div className="text">
                         <p>
@@ -37,7 +37,7 @@ export default function Home() {
                             I can fluently speak Korean and English, and currently learning Japanese.
                         </p>
 
-                        <a href="/test.pdf" download className="nav-link">Download Resume</a>
+                        <a href="test.pdf" download className="nav-link">Download Resume</a>
                     </div>
                 </div>
             </div>
