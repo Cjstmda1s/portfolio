@@ -9,7 +9,7 @@ import Contact from './contact.jsx';
 function App() {
     return (
         <>
-            <Router basename='portfolio'>
+            <Router basename='/portfolio'>
                 <nav className="black-nav">
                     <h1>
                         Edward Chen
