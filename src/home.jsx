@@ -37,7 +37,7 @@ export default function Home() {
                             I can fluently speak Korean and English, and currently learning Japanese.
                         </p>
 
-                        <a href="test.pdf" download className="nav-link">Download Resume</a>
+                        <a href="/portfolio/resume.pdf" download className="nav-link">Download Resume</a>
                     </div>
                 </div>
             </div>
